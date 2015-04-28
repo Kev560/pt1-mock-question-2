@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Question2", "Question2.vcxproj", "{69150B72-F536-4EBE-9C34-8EFD65B8DC9B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "..\UnitTest1\UnitTest1.vcxproj", "{64D6E203-196D-471D-94C2-430945934B54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{69150B72-F536-4EBE-9C34-8EFD65B8DC9B}.Debug|Win32.Build.0 = Debug|Win32
 		{69150B72-F536-4EBE-9C34-8EFD65B8DC9B}.Release|Win32.ActiveCfg = Release|Win32
 		{69150B72-F536-4EBE-9C34-8EFD65B8DC9B}.Release|Win32.Build.0 = Release|Win32
+		{64D6E203-196D-471D-94C2-430945934B54}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64D6E203-196D-471D-94C2-430945934B54}.Debug|Win32.Build.0 = Debug|Win32
+		{64D6E203-196D-471D-94C2-430945934B54}.Release|Win32.ActiveCfg = Release|Win32
+		{64D6E203-196D-471D-94C2-430945934B54}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

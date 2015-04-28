@@ -6,7 +6,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
 #include "Time.h"
-
+#include <string>
 using namespace std;
 
 // ***** QUESTION 2 *****
@@ -30,6 +30,9 @@ int main(int argc, char *argv[]) {
 
 	int hours, mins;									// get changed time
 	myTime.get(hours, mins);
-	cout << "Design 1 starts at " << mins << " past " << hours;   // display time in another format
+	cout << "Design 1 starts at " << mins << " past " << hours << "\n";   // display time in another format
+
+
+	system("pause");
 
 }
